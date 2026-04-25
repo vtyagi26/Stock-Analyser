@@ -1,7 +1,10 @@
+fastapi
+uvicorn
 pandas
 numpy
 matplotlib
-python-dotenv
 scikit-learn
 xgboost
+python-dotenv
 alpaca-py
+joblib
