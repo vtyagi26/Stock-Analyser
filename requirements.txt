@@ -1,9 +1,0 @@
-streamlit
-pandas
-numpy
-plotly
-seaborn
-scikit-learn
-torch
-finnhub-python
-transformers
